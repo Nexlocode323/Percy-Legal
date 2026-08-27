@@ -5,4 +5,4 @@ Hosted Privacy Policy and Terms of Service for [Percy](https://github.com/Nexloc
 - [Privacy Policy](privacy-policy.md)
 - [Terms of Service](terms.md)
 
-Contact: hfrith9@gmail.com
+Contact: percysupport@gmail.com

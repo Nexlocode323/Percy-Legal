@@ -49,7 +49,7 @@ The App depends on third-party infrastructure (including Supabase and Anthropic)
 
 ## 8. Termination and deletion
 
-You may stop using the App and delete your account at any time from **Settings → Account → Delete Account**, or by contacting us at hfrith9@gmail.com. We may suspend or terminate your access if you violate these Terms. Upon deletion, Your Content is permanently removed as described in our [Privacy Policy](privacy-policy.md). Deleting your account does not cancel an active Premium subscription — see §5.
+You may stop using the App and delete your account at any time from **Settings → Account → Delete Account**, or by contacting us at percysupport@gmail.com. We may suspend or terminate your access if you violate these Terms. Upon deletion, Your Content is permanently removed as described in our [Privacy Policy](privacy-policy.md). Deleting your account does not cancel an active Premium subscription — see §5.
 
 ## 9. Disclaimer of warranties
 
@@ -70,4 +70,4 @@ These Terms are governed by the laws of Australia, without regard to conflict-of
 ## 13. Contact
 
 Harry Frith
-hfrith9@gmail.com
+percysupport@gmail.com
