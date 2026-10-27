@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Effective date:** 21 August 2026
+**Effective date:** 28 October 2026
 
 These Terms of Service ("Terms") govern your use of Percy (the "App"), provided by Harry Frith ("we", "us"). By creating an account or using the App, you agree to these Terms. If you don't agree, don't use the App.
 
@@ -24,13 +24,23 @@ The App can import recipes from links, pasted text, or photos using AI. Extracte
 
 ## 5. Premium subscription
 
-The App offers an optional **Premium** subscription (monthly or annual, billed via the Apple App Store or Google Play). Premium unlocks: unlimited recipes (the free tier is capped at 10 recipes per user, with a higher shared household cap), real nutrition and cost-per-serve estimates, and unlimited AI photo imports (the free tier is capped at 5 photo imports per week).
+The App offers an optional **Premium** subscription (monthly or annual, billed via the Apple App Store or Google Play). Premium unlocks: unlimited recipes, real nutrition and cost-per-serve estimates, unlimited AI photo imports, and grocery receipt scanning.
+
+**Free tier limits:**
+
+- If you're not in a household, you can save up to **15 recipes**.
+- A household with no Premium member can share up to **22 recipes** in total, however many members it has, and each free member can add up to 15 of their own.
+- You can import up to **5 recipes from photos** per week.
+- Sample recipes don't count towards any limit.
+
+**Households:** if any member of a household has Premium, the household's shared recipe library is unlimited for every member, including members on the free tier. The other Premium features (nutrition and cost-per-serve estimates, unlimited photo imports and receipt scanning) apply only to the person who subscribes. When you join a household with no Premium member, your existing recipes are shared with it only until it reaches its 22-recipe limit, and any others stay on your own account.
 
 - **Price and billing period** are shown on the purchase screen before you buy, and set by you when you choose monthly or annual.
 - **Auto-renewal**: your subscription automatically renews for the same period and price unless you cancel at least 24 hours before the current period ends. Your account will be charged for renewal within 24 hours prior to the end of the current period.
 - **Cancellation**: manage or cancel your subscription any time in your device's account settings (iOS: Settings → your name → Subscriptions; Android: Google Play → Subscriptions) — not in the App itself, per Apple's and Google's own subscription management requirements. Cancelling stops future renewals; you keep Premium access until the end of the period you already paid for.
 - **Refunds**: any payment for the current period is non-refundable except where required by law or the App Store's/Google Play's own refund policy — we don't process refunds directly, since we never receive your payment.
-- If your subscription lapses, your data isn't deleted — recipes beyond the free cap stay saved but new ones can't be added until you're back under it or resubscribe (see the Privacy Policy §1 for what subscription data we store).
+- If your subscription lapses, your data isn't deleted — recipes beyond the free limits stay saved but new ones can't be added until you're back under them or resubscribe (see the Privacy Policy §1 for what subscription data we store). The same applies to a household whose last Premium member cancels or leaves.
+- **Leaving a household:** if you're on the free tier and leave a household (or are removed from it, or it's dissolved) with more than 15 recipes of your own, you'll need to choose 15 to keep, or upgrade to Premium, before you can keep using the App. Recipes you don't keep are deleted from your account. If the household still exists, the recipes shared with it stay there.
 
 ## 6. Acceptable use
 
