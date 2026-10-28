@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective date:** 27 August 2026
+**Effective date:** 28 October 2026
 
 Percy ("the App") is a personal recipe manager and meal planner made by Harry Frith, an independent developer based in Australia. This policy explains what personal data the App collects, why, who else handles it, and what choices you have.
 
@@ -17,6 +17,7 @@ Questions about this policy or your data: **percysupport@gmail.com**.
 - **Recipe photos you upload** — stored so the App can show them back to you.
 - **What you import from** — a URL, pasted text, or a photo of a recipe. Used once to pull out the recipe details, then discarded; the resulting recipe is kept.
 - **Meal-plan notes** — free text you write on the Plan tab, used once to turn your preferences into planning rules.
+- **Shopping receipts you scan** — the photo is used once to read the items and prices, then discarded. The items and prices read from it are kept, so the App can estimate what your recipes and shopping lists cost.
 - **Push notification token** — only if you turn on notifications, so we can send reminders and household alerts to your device.
 - **Subscription status** — for Premium subscribers only, so we know to unlock Premium features on your account.
 
@@ -35,7 +36,11 @@ We may later add crash reporting to help us fix bugs — this would collect tech
 We rely on a few service providers to run the App. None of them may use your data for their own purposes.
 
 - **Supabase** — stores your account, recipes, and photos, and handles sign-in. [Privacy policy](https://supabase.com/privacy)
-- **Anthropic** — when you import a recipe or write plan notes, the text or photo involved is sent to Anthropic's Claude AI to extract the recipe or your preferences. Nothing else about you is sent, and this data is not used to train Anthropic's models. [Privacy policy](https://www.anthropic.com/legal/privacy)
+- **Anthropic** — Percy uses Anthropic's Claude AI in these places:
+  - **Imports, receipt scans and plan notes.** When you import a recipe (from a link, pasted text or a photo), scan a receipt, or plan a week with notes, what you provide is sent to Claude so it can read the recipe, the receipt's items and prices, or your preferences. The App asks your permission the first time, before anything is sent. If you say no, those features don't run, and the rest of the App works as normal.
+  - **Ingredient lists.** When you save a recipe, its ingredient list is sent to Claude to tidy up how items are named and grouped on your shopping list. For Premium subscribers, it is also used to estimate the recipe's cost and nutrition. Only the ingredients and serving count are sent: no name, email or other account details.
+
+  Nothing else about you is sent, and this data is not used to train Anthropic's models. [Privacy policy](https://www.anthropic.com/legal/privacy)
 - **TikTok** — if you import from a TikTok link, we ask TikTok's public service for the video's caption. No account data is sent.
 - **Apple and Google** — if you sign in with them, they verify who you are and send us your name and email the first time. [Apple](https://www.apple.com/legal/privacy/) · [Google](https://policies.google.com/privacy)
 - **Expo** — if you enable notifications, your device's notification token (nothing else) is sent to Expo so it can deliver the notification. [Privacy policy](https://expo.dev/privacy)
@@ -48,11 +53,11 @@ Apart from these, your recipes, photos, and plans are stored only with Supabase 
 
 A photo you attach to a recipe is stored in the cloud. It is not listed or linked publicly, but it is also not individually locked behind your login — someone with the exact link could open it. Please do not upload photos that show sensitive information in the background, such as faces, documents, or ID cards.
 
-(This section is about photos you save to a recipe. Photos you use to *import* a recipe are covered in sections 1 and 3 — sent to our AI provider and not stored by us.)
+(This section is about photos you save to a recipe. Photos you use to *import* a recipe or *scan* a receipt are covered in sections 1 and 3 — sent to our AI provider and not stored by us.)
 
 ## 5. Household sharing
 
-You can form a household with other Percy users, such as family you live with. If you do, your recipes, meal plan, and shopping list become visible to — and editable by — the other members, and they can see your display name. This is the feature working as intended, not a data leak. Your personal recipe ratings, your login details, and your email are never shared with household members.
+You can form a household with other Percy users, such as family you live with. If you do, your recipes, meal plan, shopping list, and the receipts you scan become visible to — and editable by — the other members, and they can see your display name. This is the feature working as intended, not a data leak. Your personal recipe ratings, your login details, and your email are never shared with household members.
 
 If you leave a household, the sharing stops going forward. Content you already added stays with the household rather than being deleted (section 7 covers what account deletion does).
 
