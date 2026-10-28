@@ -24,7 +24,7 @@ The App can import recipes from links, pasted text, or photos using AI. Extracte
 
 ## 5. Premium subscription
 
-The App offers an optional **Premium** subscription (monthly or annual, billed via the Apple App Store or Google Play). Premium unlocks: unlimited recipes, real nutrition and cost-per-serve estimates, unlimited AI photo imports, and grocery receipt scanning.
+The App offers an optional **Premium** subscription (monthly or annual, billed via the Apple App Store or Google Play). Premium unlocks: unlimited recipes, real nutrition and cost-per-serve estimates, unlimited AI photo imports (subject to fair-use limits that prevent abuse), and grocery receipt scanning.
 
 **Free tier limits:**
 
